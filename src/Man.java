@@ -7,7 +7,23 @@ public class Man {
     }
 
         // поля класса (атрибуты объекта)
-    String Name;
-    Boolean isLife;
+    private String Name;
+    private Boolean isLife;
+    private int Age;
+    private int Health;
+    public void Talk();
+    {
+
+    }
+    public void Go()
+    {
+
+    }
+    public boolean IsAlive()
+    {
+
+    }
+    return isLife;
+
 
 }
