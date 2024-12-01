@@ -56,7 +56,5 @@ public class Main {
                     break;
             }
         }
-
-        scanner.close(); // Закрываем сканер после завершения работы
     }
 }
